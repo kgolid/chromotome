@@ -14,13 +14,13 @@ Basic usage:
 
 ```javascript
 // Can both use ES6 import and CommonJS require.
-import Tome from 'chromotome';
+import * as tome from 'chromotome';
 
 // Palettes can be acquired randomly...
-let palette = Tome.getRandom();
+let palette = tome.getRandom();
 
 // ...or by name
-palette = Tome.get('Prettiest Palette');
+palette = tome.get('Prettiest Palette');
 
 // Access the colors through the 'colors' property.
 console.log(palette.colors); // --> [ '#abc', '#cba', '#bac' ]
