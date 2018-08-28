@@ -1,4 +1,4 @@
-# Chromotome
+# 📘📗📙📕 Chromotome 📕📙📗📘
 
 A collection of color palettes used in order to easily colorize new creative coding projects. New palettes will be continuously added, and all existing ones are subject to change.
 
