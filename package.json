@@ -23,6 +23,6 @@
     "dev": "rollup -c -w"
   },
   "devDependencies": {
-    "rollup": "^0.65.0"
+    "rollup": "^0.65.2"
   }
 }
