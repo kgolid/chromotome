@@ -8,4 +8,8 @@ function get(name) {
   return palettes.find(pal => pal.name == name);
 }
 
-export { getRandom, get };
+function getNames() {
+  return palettes.map(p => p.name);
+}
+
+export { getRandom, get, getNames };
