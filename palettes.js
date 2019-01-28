@@ -163,6 +163,16 @@ const palettes = [
     name: 'rag-virupaksha',
     colors: ['#f5736a', '#925951', '#feba4c', '#9d9b9d'],
     background: '#eedfa2'
+  },
+  {
+    name: 'foxshelter',
+    colors: ['#ff3931', '#007861', '#311f27', '#bab9a4'],
+    background: '#dddddd'
+  },
+  {
+    name: 'hermes',
+    colors: ['#253852', '#51222f', '#b53435', '#ecbb51'],
+    background: '#eeccc2'
   }
 ];
 
