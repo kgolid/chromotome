@@ -1,3 +1,4 @@
+import colourscafe from './palettes/colourscafe';
 import ranganath from './palettes/ranganath';
 import roygbivs from './palettes/roygbivs';
 import tundra from './palettes/tundra';
