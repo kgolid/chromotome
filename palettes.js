@@ -2,6 +2,7 @@ import colourscafe from './palettes/colourscafe';
 import ranganath from './palettes/ranganath';
 import roygbivs from './palettes/roygbivs';
 import tundra from './palettes/tundra';
+import rohlfs from './palettes/rohlfs';
 
 const palettes = [
   {
@@ -46,7 +47,7 @@ const palettes = [
   }
 ];
 
-const pals = palettes.concat(ranganath, roygbivs, tundra, colourscafe);
+const pals = palettes.concat(ranganath, roygbivs, tundra, colourscafe, rohlfs);
 
 export default pals.map(p => {
   p.size = p.colors.length;
