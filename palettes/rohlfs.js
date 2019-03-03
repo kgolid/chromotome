@@ -30,7 +30,7 @@ export default [
     background: '#f76975'
   },
   {
-    name: 'rohlfs_3',
+    name: 'rohlfs_4',
     colors: ['#fde500', '#2f2043', '#f76975', '#eff0dd'],
     stroke: '#211029',
     background: '#fbbeca'
