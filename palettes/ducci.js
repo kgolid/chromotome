@@ -84,7 +84,7 @@ export default [
     background: '#f6eccb'
   },
   {
-    name: 'ducci_o',
+    name: 'ducci_x',
     colors: ['#dd614a', '#f5cedb', '#1a1e4f'],
     stroke: '#1a1e4f',
     background: '#fbb900'
