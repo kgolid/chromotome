@@ -67,9 +67,9 @@ export default [
   },
   {
     name: 'ducci_q',
-    colors: ['##4bae8c', '##d0c1a0', '##2d3538'],
-    stroke: '##2d3538',
-    background: '##d06440'
+    colors: ['#4bae8c', '#d0c1a0', '#2d3538'],
+    stroke: '#2d3538',
+    background: '#d06440'
   },
   {
     name: 'ducci_u',
@@ -85,8 +85,8 @@ export default [
   },
   {
     name: 'ducci_o',
-    colors: ['##dd614a', '##f5cedb', '##1a1e4f'],
-    stroke: '##1a1e4f',
-    background: '##fbb900'
+    colors: ['#dd614a', '#f5cedb', '#1a1e4f'],
+    stroke: '#1a1e4f',
+    background: '#fbb900'
   }
 ];
