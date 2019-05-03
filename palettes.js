@@ -4,6 +4,8 @@ import roygbivs from './palettes/roygbivs';
 import tundra from './palettes/tundra';
 import rohlfs from './palettes/rohlfs';
 import ducci from './palettes/ducci';
+import judson from './palettes/judson';
+import iivonen from './palettes/iivonen';
 
 const palettes = [
   {
@@ -54,7 +56,9 @@ const pals = palettes.concat(
   tundra,
   colourscafe,
   rohlfs,
-  ducci
+  ducci,
+  judson,
+  iivonen
 );
 
 export default pals.map(p => {
