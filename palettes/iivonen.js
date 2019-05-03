@@ -18,7 +18,7 @@ export default [
     background: '#fae5c8'
   },
   {
-    name: 'jud_cabinet',
+    name: 'iiso_daily',
     colors: ['#e76c4a', '#f0d967', '#7f8cb6', '#1daeb1', '#ef9640'],
     stroke: '#000100',
     background: '#e2ded2'
