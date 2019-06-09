@@ -9,8 +9,12 @@ function get(name) {
   return palettes.find(pal => pal.name == name);
 }
 
+function getAll() {
+  return palettes;
+}
+
 function getNames() {
   return palettes.map(p => p.name);
 }
 
-export { getRandom, get, getNames };
+export { getRandom, get, getAll, getNames };
