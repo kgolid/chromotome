@@ -21,6 +21,6 @@ export default [
     name: 'jud_cabinet',
     colors: ['#f0afb7', '#f6bc12', '#1477bb', '#41bb9b'],
     stroke: '#020508',
-    background: '#d6d6cc'
+    background: '#e3ded8'
   }
 ];
