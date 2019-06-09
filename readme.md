@@ -25,3 +25,7 @@ palette = tome.get('Prettiest Palette');
 // Access the colors through the 'colors' property.
 console.log(palette.colors); // --> [ '#abc', '#cba', '#bac' ]
 ```
+
+Palette overview:
+
+https://kgolid.github.io/chromotome-site/
