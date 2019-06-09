@@ -5,6 +5,7 @@ function getRandom() {
 }
 
 function get(name) {
+  if (name === undefined) return getRandom();
   return palettes.find(pal => pal.name == name);
 }
 
