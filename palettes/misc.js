@@ -44,5 +44,11 @@ export default [
     colors: ['#ff3250', '#ffb33a', '#008c36', '#0085c6', '#4c4c4c'],
     stroke: '#0b0b0b',
     background: '#faf2e5'
+  },
+  {
+    name: 'byrnes',
+    colors: ['#c54514', '#dca215', '#23507f'],
+    stroke: '#0b0b0b',
+    background: '#e8e7d4'
   }
 ];
