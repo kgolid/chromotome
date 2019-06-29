@@ -7,6 +7,7 @@ import rohlfs from './palettes/rohlfs';
 import ducci from './palettes/ducci';
 import judson from './palettes/judson';
 import iivonen from './palettes/iivonen';
+import kovecses from './palettes/kovecses';
 
 const pals = misc.concat(
   ranganath,
@@ -16,7 +17,8 @@ const pals = misc.concat(
   rohlfs,
   ducci,
   judson,
-  iivonen
+  iivonen,
+  kovecses
 );
 
 export default pals.map(p => {
