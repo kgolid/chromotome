@@ -50,5 +50,49 @@ export default [
     colors: ['#c54514', '#dca215', '#23507f'],
     stroke: '#0b0b0b',
     background: '#e8e7d4'
+  },
+  {
+    name: 'butterfly',
+    colors: ['#f40104', '#f6c0b3', '#99673a', '#f0f1f4'],
+    stroke: '#0b0b0b',
+    background: '#191e36'
+  },
+  {
+    name: 'butterfly',
+    colors: ['#f1594a', '#f5b50e', '#14a160', '#2969de', '#885fa4'],
+    stroke: '#1a1a1a',
+    background: '#e2e6e8'
+  },
+  {
+    name: 'empusa',
+    colors: [
+      '#c92a28',
+      '#e69301',
+      '#1f8793',
+      '#13652b',
+      '#e7d8b0',
+      '#48233b',
+      '#e3b3ac'
+    ],
+    stroke: '#1a1a1a',
+    background: '#f0f0f2'
+  },
+  {
+    name: 'florida_citrus',
+    colors: ['#ea7251', '#ebf7f0', '#02aca5'],
+    stroke: '#050100',
+    background: '#9ae2d3'
+  },
+  {
+    name: 'lemon_citrus',
+    colors: ['#e2d574', '#f1f4f7', '#69c5ab'],
+    stroke: '#463231',
+    background: '#f79eac'
+  },
+  {
+    name: 'yuma_punk',
+    colors: ['#f05e3b', '#ebdec4', '#ffdb00'],
+    stroke: '#ebdec4',
+    background: '#161616'
   }
 ];
