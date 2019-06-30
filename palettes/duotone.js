@@ -18,9 +18,21 @@ export default [
     background: '#0a5e78'
   },
   {
-    name: 'iiso_daily',
+    name: 'dt04',
     colors: ['#50978e', '#f7f0df'],
     stroke: '#000000',
     background: '#f7f0df'
+  },
+  {
+    name: 'dt05',
+    colors: ['#ee5d65', '#f0e5cb'],
+    stroke: '#080708',
+    background: '#f0e5cb'
+  },
+  {
+    name: 'dt06',
+    colors: ['#271f47', '#e7ceb5'],
+    stroke: '#271f47',
+    background: '#cc2b1c'
   }
 ];
