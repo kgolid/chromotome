@@ -54,11 +54,17 @@ export default [
   {
     name: 'butterfly',
     colors: ['#f40104', '#f6c0b3', '#99673a', '#f0f1f4'],
-    stroke: '#0b0b0b',
+    stroke: '#191e36',
     background: '#191e36'
   },
   {
-    name: 'butterfly',
+    name: 'floratopia',
+    colors: ['#bf4a2b', '#cd902a', '#4e4973', '#f5d4bc'],
+    stroke: '#1e1a43',
+    background: '#1e1a43'
+  },
+  {
+    name: 'verena',
     colors: ['#f1594a', '#f5b50e', '#14a160', '#2969de', '#885fa4'],
     stroke: '#1a1a1a',
     background: '#e2e6e8'
