@@ -100,5 +100,11 @@ export default [
     colors: ['#f05e3b', '#ebdec4', '#ffdb00'],
     stroke: '#ebdec4',
     background: '#161616'
+  },
+  {
+    name: 'moir',
+    colors: ['#a49f4f', '#d4501e', '#f7c558', '#ebbaa6'],
+    stroke: '#161716',
+    background: '#f7f4ef'
   }
 ];
