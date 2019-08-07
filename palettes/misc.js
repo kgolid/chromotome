@@ -106,5 +106,23 @@ export default [
     colors: ['#a49f4f', '#d4501e', '#f7c558', '#ebbaa6'],
     stroke: '#161716',
     background: '#f7f4ef'
+  },
+  {
+    name: 'tokyo',
+    colors: ['#d13821', '#1d295b', '#51587d', '#e7e7e7'],
+    stroke: '#0b0e3e',
+    background: '#c7b09e'
+  },
+  {
+    name: 'bauhaus01',
+    colors: ['#ea542f', '#f19c1b', '#4f8ba9'],
+    stroke: '#221e1f',
+    background: '#e7dbc4'
+  },
+  {
+    name: 'bauhaus02',
+    colors: ['#bb2f2a', '#e9b500', '#0165b7'],
+    stroke: '#000000',
+    background: '#e5d6b8'
   }
 ];

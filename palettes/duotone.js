@@ -34,5 +34,23 @@ export default [
     colors: ['#271f47', '#e7ceb5'],
     stroke: '#271f47',
     background: '#cc2b1c'
+  },
+  {
+    name: 'dt07',
+    colors: ['#6a98a5', '#d24c18'],
+    stroke: '#efebda',
+    background: '#efebda'
+  },
+  {
+    name: 'dt08',
+    colors: ['#5d9d88', '#ebb43b'],
+    stroke: '#efebda',
+    background: '#efebda'
+  },
+  {
+    name: 'dt09',
+    colors: ['#052e57', '#de8d80'],
+    stroke: '#efebda',
+    background: '#efebda'
   }
 ];
