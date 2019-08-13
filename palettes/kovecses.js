@@ -44,6 +44,20 @@ export default [
     background: '#dfd4c1'
   },
   {
+    name: 'kov_06b',
+    colors: [
+      '#d57846',
+      '#dfe0cc',
+      '#de442f',
+      '#e7d3c5',
+      '#5ec227',
+      '#302f35',
+      '#63bdb3'
+    ],
+    stroke: '#292319',
+    background: '#dfd4c1'
+  },
+  {
     name: 'kov_07',
     colors: ['#c91619', '#fdecd2', '#f4a000', '#4c2653'],
     stroke: '#111',
