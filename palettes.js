@@ -8,6 +8,7 @@ import ducci from './palettes/ducci';
 import judson from './palettes/judson';
 import iivonen from './palettes/iivonen';
 import kovecses from './palettes/kovecses';
+import tsuchimochi from './palettes/tsuchimochi';
 import duotone from './palettes/duotone';
 
 const pals = misc.concat(
@@ -20,6 +21,7 @@ const pals = misc.concat(
   judson,
   iivonen,
   kovecses,
+  tsuchimochi,
   duotone
 );
 
