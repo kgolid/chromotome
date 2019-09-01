@@ -10,6 +10,7 @@ import iivonen from './palettes/iivonen';
 import kovecses from './palettes/kovecses';
 import tsuchimochi from './palettes/tsuchimochi';
 import duotone from './palettes/duotone';
+import hilda from './palettes/hilda';
 
 const pals = misc.concat(
   ranganath,
@@ -22,7 +23,8 @@ const pals = misc.concat(
   iivonen,
   kovecses,
   tsuchimochi,
-  duotone
+  duotone,
+  hilda
 );
 
 export default pals.map(p => {
