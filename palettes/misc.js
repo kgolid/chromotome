@@ -108,21 +108,15 @@ export default [
     background: '#f7f4ef'
   },
   {
-    name: 'tokyo',
-    colors: ['#d13821', '#1d295b', '#51587d', '#e7e7e7'],
-    stroke: '#0b0e3e',
-    background: '#c7b09e'
-  },
-  {
-    name: 'bauhaus01',
-    colors: ['#ea542f', '#f19c1b', '#4f8ba9'],
+    name: 'sprague',
+    colors: ['#ec2f28', '#f8cd28', '#1e95bb', '#fbaab3', '#fcefdf'],
     stroke: '#221e1f',
-    background: '#e7dbc4'
+    background: '#fcefdf'
   },
   {
-    name: 'bauhaus02',
-    colors: ['#bb2f2a', '#e9b500', '#0165b7'],
-    stroke: '#000000',
-    background: '#e5d6b8'
+    name: 'bloomberg',
+    colors: ['#ff5500', '#f4c145', '#144714', '#2f04fc', '#e276af'],
+    stroke: '#000',
+    background: '#fff3dd'
   }
 ];
