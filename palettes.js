@@ -12,6 +12,7 @@ import tsuchimochi from './palettes/tsuchimochi';
 import duotone from './palettes/duotone';
 import hilda from './palettes/hilda';
 import spatial from './palettes/spatial';
+import bekk from './palettes/bekk';
 
 const pals = misc.concat(
   ranganath,
@@ -26,7 +27,8 @@ const pals = misc.concat(
   tsuchimochi,
   duotone,
   hilda,
-  spatial
+  spatial,
+  bekk
 );
 
 export default pals.map(p => {
