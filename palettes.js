@@ -12,7 +12,6 @@ import tsuchimochi from './palettes/tsuchimochi';
 import duotone from './palettes/duotone';
 import hilda from './palettes/hilda';
 import spatial from './palettes/spatial';
-import bekk from './palettes/bekk';
 import jung from './palettes/jung';
 
 const pals = misc.concat(
@@ -29,7 +28,6 @@ const pals = misc.concat(
   duotone,
   hilda,
   spatial,
-  bekk,
   jung
 );
 
