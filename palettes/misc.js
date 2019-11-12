@@ -133,7 +133,7 @@ export default [
   },
   {
     name: 'miradors',
-    color: ['#ff6936', '#fddc3f', '#0075ca', '#00bb70'],
+    colors: ['#ff6936', '#fddc3f', '#0075ca', '#00bb70'],
     stroke: '#ffffff',
     background: '#020202'
   }
