@@ -118,5 +118,23 @@ export default [
     colors: ['#ff5500', '#f4c145', '#144714', '#2f04fc', '#e276af'],
     stroke: '#000',
     background: '#fff3dd'
+  },
+  {
+    name: 'revolucion',
+    colors: ['#ed555d', '#fffcc9', '#41b797', '#eda126', '#7b5770'],
+    stroke: '#fffcc9',
+    background: '#2d1922'
+  },
+  {
+    name: 'sneaker',
+    colors: ['#e8165b', '#401e38', '#66c3b4', '#ee7724', '#584098'],
+    stroke: '#401e38',
+    background: '#ffffff'
+  },
+  {
+    name: 'miradors',
+    color: ['#ff6936', '#fddc3f', '#0075ca', '#00bb70'],
+    stroke: '#ffffff',
+    background: '#020202'
   }
 ];
