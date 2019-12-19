@@ -71,15 +71,7 @@ export default [
   },
   {
     name: 'empusa',
-    colors: [
-      '#c92a28',
-      '#e69301',
-      '#1f8793',
-      '#13652b',
-      '#e7d8b0',
-      '#48233b',
-      '#e3b3ac'
-    ],
+    colors: ['#c92a28', '#e69301', '#1f8793', '#13652b', '#e7d8b0', '#48233b', '#e3b3ac'],
     stroke: '#1a1a1a',
     background: '#f0f0f2'
   },
@@ -136,5 +128,11 @@ export default [
     colors: ['#ff6936', '#fddc3f', '#0075ca', '#00bb70'],
     stroke: '#ffffff',
     background: '#020202'
+  },
+  {
+    name: 'kaffeprat',
+    colors: ['#BCAA8C', '#D8CDBE', '#484A42', '#746B58', '#9A8C73'],
+    stroke: '#000',
+    background: '#fff'
   }
 ];
