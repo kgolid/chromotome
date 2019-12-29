@@ -13,6 +13,7 @@ import duotone from './palettes/duotone';
 import hilda from './palettes/hilda';
 import spatial from './palettes/spatial';
 import jung from './palettes/jung';
+import system from './palettes/system';
 
 const pals = misc.concat(
   ranganath,
@@ -28,7 +29,8 @@ const pals = misc.concat(
   duotone,
   hilda,
   spatial,
-  jung
+  jung,
+  system
 );
 
 export default pals.map(p => {
