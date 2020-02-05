@@ -134,5 +134,11 @@ export default [
     colors: ['#BCAA8C', '#D8CDBE', '#484A42', '#746B58', '#9A8C73'],
     stroke: '#000',
     background: '#fff'
+  },
+  {
+    name: 'delphi',
+    colors: ['#475b62', '#7a999c', '#2a1f1d', '#fbaf3c', '#df4a33', '#f0e0c6', '#af592c'],
+    stroke: '#2a1f1d',
+    background: '#f0e0c6'
   }
 ];
