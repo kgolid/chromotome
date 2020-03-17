@@ -155,5 +155,11 @@ export default [
     ],
     stroke: '#2a1f1d',
     background: '#dfc792'
+  },
+  {
+    name: 'nowak',
+    colors: ['#e85b30', '#ef9e28', '#c6ac71', '#e0c191', '#3f6279', '#ee854e', '#180305'],
+    stroke: '#180305',
+    background: '#ede4cb'
   }
 ];
