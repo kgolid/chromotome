@@ -140,5 +140,20 @@ export default [
     colors: ['#475b62', '#7a999c', '#2a1f1d', '#fbaf3c', '#df4a33', '#f0e0c6', '#af592c'],
     stroke: '#2a1f1d',
     background: '#f0e0c6'
+  },
+  {
+    name: 'mably',
+    colors: [
+      '#13477b',
+      '#2f1b10',
+      '#d18529',
+      '#d72a25',
+      '#e42184',
+      '#138898',
+      '#9d2787',
+      '#7f311b'
+    ],
+    stroke: '#2a1f1d',
+    background: '#dfc792'
   }
 ];
