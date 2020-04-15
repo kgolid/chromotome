@@ -14,6 +14,7 @@ import hilda from './palettes/hilda';
 import spatial from './palettes/spatial';
 import jung from './palettes/jung';
 import system from './palettes/system';
+import flourish from './palettes/flourish';
 
 const pals = misc.concat(
   ranganath,
@@ -30,10 +31,11 @@ const pals = misc.concat(
   hilda,
   spatial,
   jung,
-  system
+  system,
+  flourish
 );
 
-export default pals.map(p => {
+export default pals.map((p) => {
   p.size = p.colors.length;
   return p;
 });
