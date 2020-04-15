@@ -67,12 +67,6 @@ export default [
     name: 'verena',
     colors: ['#f1594a', '#f5b50e', '#14a160', '#2969de', '#885fa4'],
     stroke: '#1a1a1a',
-  },
-  {
-    name: 'empusa',
-    colors: ['#c92a28', '#e69301', '#1f8793', '#13652b', '#e7d8b0', '#48233b', '#e3b3ac'],
-    stroke: '#1a1a1a',
-    background: '#f0f0f2'
     background: '#e2e6e8',
   },
   {
@@ -133,33 +127,6 @@ export default [
     name: 'kaffeprat',
     colors: ['#BCAA8C', '#D8CDBE', '#484A42', '#746B58', '#9A8C73'],
     stroke: '#000',
-  {
-    name: 'delphi',
-    colors: ['#475b62', '#7a999c', '#2a1f1d', '#fbaf3c', '#df4a33', '#f0e0c6', '#af592c'],
-    stroke: '#2a1f1d',
-    background: '#f0e0c6'
-  },
-  {
-    name: 'mably',
-    colors: [
-      '#13477b',
-      '#2f1b10',
-      '#d18529',
-      '#d72a25',
-      '#e42184',
-      '#138898',
-      '#9d2787',
-      '#7f311b'
-    ],
-    stroke: '#2a1f1d',
-    background: '#dfc792'
-  },
-  {
-    name: 'nowak',
-    colors: ['#e85b30', '#ef9e28', '#c6ac71', '#e0c191', '#3f6279', '#ee854e', '#180305'],
-    stroke: '#180305',
-    background: '#ede4cb'
-  }
     background: '#fff',
   },
 ];
