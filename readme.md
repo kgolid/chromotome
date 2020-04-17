@@ -1,8 +1,6 @@
-# 📘📗📙📕 Chromotome 📕📙📗📘
+# Chromotome
 
 A collection of color palettes used in order to easily colorize new creative coding projects. New palettes will be continuously added, and all existing ones are subject to change.
-
-An overview of the different palettes will be available soon.
 
 Installation:
 
@@ -17,13 +15,15 @@ Basic usage:
 import * as tome from 'chromotome';
 
 // Palettes can be acquired randomly...
-let palette = tome.getRandom();
+let palette = tome.get(); // tome.getRandom() also works.
 
-// ...or by name
-palette = tome.get('Prettiest Palette');
+// ...or by name!
+palette = tome.get('miradors'); // tome.getNames() gets you a list of all the different palette names.
 
-// Access the colors through the 'colors' property.
-console.log(palette.colors); // --> [ '#abc', '#cba', '#bac' ]
+// A palette consists of an array of colors together with (usually) a stroke color and a background color.
+console.log(palette.colors); // --> ['#ff6936', '#fddc3f', '#0075ca', '#00bb70']
+console.log(palette.stroke); // --> '#ffffff'
+console.log(palette.background); // --> '#020202'
 ```
 
 Palette overview:
