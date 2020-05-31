@@ -74,4 +74,10 @@ export default [
     stroke: '#463930',
     background: '#e5e2cf',
   },
+  {
+    name: 'honey',
+    colors: ['#f14d42', '#f4fdec', '#4fbe5d', '#265487', '#f6e916', '#f9a087', '#2e99d6'],
+    stroke: '#141414',
+    background: '#f4fdec',
+  },
 ];

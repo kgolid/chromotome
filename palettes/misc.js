@@ -129,4 +129,16 @@ export default [
     stroke: '#000',
     background: '#fff',
   },
+  {
+    name: 'jrmy',
+    colors: ['#df456c', '#ea6a82', '#270b32', '#471e43'],
+    stroke: '#270b32',
+    background: '#ef9198',
+  },
+  {
+    name: 'animo',
+    colors: ['#f6c103', '#f6f6f6', '#d1cdc7', '#e7e6e5'],
+    stroke: '#010001',
+    background: '#f5f5f5',
+  },
 ];
