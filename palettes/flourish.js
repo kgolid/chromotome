@@ -80,4 +80,20 @@ export default [
     stroke: '#141414',
     background: '#f4fdec',
   },
+
+  {
+    name: 'jungle',
+    colors: [
+      '#adb100',
+      '#e5f4e9',
+      '#f4650f',
+      '#4d6838',
+      '#cb9e00',
+      '#689c7d',
+      '#e2a1a8',
+      '#151c2e',
+    ],
+    stroke: '#0e0f27',
+    background: '#cecaa9',
+  },
 ];

@@ -141,4 +141,10 @@ export default [
     stroke: '#010001',
     background: '#f5f5f5',
   },
+  {
+    name: 'book',
+    colors: ['#be1c24', '#d1a082', '#037b68', '#d8b1a5', '#1c2738', '#c95a3f'],
+    stroke: '#0e0f27',
+    background: '#f5b28a',
+  },
 ];
