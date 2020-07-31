@@ -80,4 +80,10 @@ export default [
     stroke: '#141414',
     background: '#f4fdec',
   },
+  {
+    name: 'skyspider',
+    colors: ['#f4b232', '#f2dbbd', '#01799c', '#e93e48', '#0b1952', '#006748', '#ed817d'],
+    stroke: '#050505',
+    background: '#f0dbbc',
+  },
 ];
