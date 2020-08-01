@@ -81,6 +81,21 @@ export default [
     background: '#f4fdec',
   },
   {
+    name: 'jungle',
+    colors: [
+      '#adb100',
+      '#e5f4e9',
+      '#f4650f',
+      '#4d6838',
+      '#cb9e00',
+      '#689c7d',
+      '#e2a1a8',
+      '#151c2e',
+    ],
+    stroke: '#0e0f27',
+    background: '#cecaa9',
+  },
+  {
     name: 'skyspider',
     colors: ['#f4b232', '#f2dbbd', '#01799c', '#e93e48', '#0b1952', '#006748', '#ed817d'],
     stroke: '#050505',
