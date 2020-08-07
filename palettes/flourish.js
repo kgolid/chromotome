@@ -101,4 +101,10 @@ export default [
     stroke: '#050505',
     background: '#f0dbbc',
   },
+  {
+    name: 'atlas',
+    colors: ['#5399b1', '#f4e9d5', '#de4037', '#ed942f', '#4e9e48', '#7a6e62'],
+    stroke: '#3d352b',
+    background: '#f0c328',
+  },
 ];
