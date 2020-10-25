@@ -80,7 +80,6 @@ export default [
     stroke: '#141414',
     background: '#f4fdec',
   },
-
   {
     name: 'jungle',
     colors: [
@@ -95,5 +94,17 @@ export default [
     ],
     stroke: '#0e0f27',
     background: '#cecaa9',
+  },
+  {
+    name: 'skyspider',
+    colors: ['#f4b232', '#f2dbbd', '#01799c', '#e93e48', '#0b1952', '#006748', '#ed817d'],
+    stroke: '#050505',
+    background: '#f0dbbc',
+  },
+  {
+    name: 'atlas',
+    colors: ['#5399b1', '#f4e9d5', '#de4037', '#ed942f', '#4e9e48', '#7a6e62'],
+    stroke: '#3d352b',
+    background: '#f0c328',
   },
 ];
