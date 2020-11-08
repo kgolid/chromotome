@@ -88,6 +88,12 @@ export default [
     background: '#161616',
   },
   {
+    name: 'yuma_punk2',
+    colors: ['#f2d002', '#f7f5e1', '#ec643b'],
+    stroke: '#19080e',
+    background: '#f7f5e1',
+  },
+  {
     name: 'moir',
     colors: ['#a49f4f', '#d4501e', '#f7c558', '#ebbaa6'],
     stroke: '#161716',
@@ -146,5 +152,35 @@ export default [
     colors: ['#be1c24', '#d1a082', '#037b68', '#d8b1a5', '#1c2738', '#c95a3f'],
     stroke: '#0e0f27',
     background: '#f5b28a',
+  },
+  {
+    name: 'juxtapoz',
+    colors: ['#20357e', '#f44242', '#ffffff'],
+    stroke: '#000000',
+    background: '#cfc398',
+  },
+  {
+    name: 'hurdles',
+    colors: ['#e16503', '#dc9a0f', '#dfe2b4', '#66a7a6'],
+    stroke: '#3c1c03',
+    background: '#3c1c03',
+  },
+  {
+    name: 'ludo',
+    colors: ['#df302f', '#e5a320', '#0466b3', '#0f7963'],
+    stroke: '#272621',
+    background: '#dedccd',
+  },
+  {
+    name: 'riff',
+    colors: ['#e24724', '#c7c7c7', '#1f3e7c', '#d29294', '#010203'],
+    stroke: '#010203',
+    background: '#f2f2f2',
+  },
+  {
+    name: 'san ramon',
+    colors: ['#4f423a', '#f6a74b', '#589286', '#f8e9e2', '#2c2825'],
+    stroke: '#2c2825',
+    background: '#fff',
   },
 ];

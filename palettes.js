@@ -16,6 +16,9 @@ import jung from './palettes/jung';
 import system from './palettes/system';
 import flourish from './palettes/flourish';
 import dale from './palettes/dale';
+import cako from './palettes/cako';
+import mayo from './palettes/mayo';
+import exposito from './palettes/exposito';
 
 const pals = misc.concat(
   ranganath,
@@ -34,7 +37,10 @@ const pals = misc.concat(
   jung,
   system,
   flourish,
-  dale
+  dale,
+  cako,
+  mayo,
+  exposito
 );
 
 export default pals.map((p) => {
