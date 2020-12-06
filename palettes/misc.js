@@ -183,4 +183,10 @@ export default [
     stroke: '#2c2825',
     background: '#fff',
   },
+  {
+    name: 'one-dress',
+    colors: ['#1767D2', '#FFFFFF', '#F9AB00', '#212121'],
+    stroke: '#212121',
+    background: '#fff',
+  },
 ];
