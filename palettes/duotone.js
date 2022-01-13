@@ -12,6 +12,12 @@ export default [
     background: '#eee3d3',
   },
   {
+    name: 'dt02b',
+    colors: ['#eee3d3'],
+    stroke: '#302956',
+    background: '#f3c507',
+  },
+  {
     name: 'dt03',
     colors: ['#000000', '#a7a7a7'],
     stroke: '#000000',
@@ -58,5 +64,23 @@ export default [
     colors: ['#e5dfcf', '#151513'],
     stroke: '#151513',
     background: '#e9b500',
+  },
+  {
+    name: 'dt11',
+    colors: ['#ece9e2'],
+    stroke: '#221e1f',
+    background: '#75c4bf',
+  },
+  {
+    name: 'dt12',
+    colors: ['#f5f2d3'],
+    stroke: '#073c5c',
+    background: '#c0d0c3',
+  },
+  {
+    name: 'dt13',
+    colors: ['#f5f2d3', '#f5f2d3', '#fbd6b8'],
+    stroke: '#ec5525',
+    background: '#ec5525',
   },
 ];
