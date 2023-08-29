@@ -1,7 +1,7 @@
 export default [
   {
     name: "candy-wrap",
-    c: [
+    colors: [
       "#f19797",
       "#f9b73e",
       "#ee5151",
@@ -11,30 +11,30 @@ export default [
       "#0b9e4e",
       "#763f68",
     ],
-    s: "#302319",
-    b: "#e7ded5",
+    stroke: "#302319",
+    background: "#e7ded5",
   },
   {
     name: "slicks",
-    c: ["#e1decd", "#d95336", "#e6ac1d"],
-    s: "#302319",
-    b: "#e1decd",
+    colors: ["#e1decd", "#d95336", "#e6ac1d"],
+    stroke: "#302319",
+    background: "#e1decd",
   },
   {
     name: "circus",
-    c: ["#3eb79e", "#f4a910", "#f37377", "#207986", "#f26003", "#afce95"],
-    s: "#302319",
-    b: "#eadcb6",
+    colors: ["#3eb79e", "#f4a910", "#f37377", "#207986", "#f26003", "#afce95"],
+    stroke: "#302319",
+    background: "#eadcb6",
   },
   {
     name: "spotlight",
-    c: ["#f34312", "#00a49e", "#ef888f", "#f5b408", "#412432"],
-    s: "#412432",
-    b: "#dfdcd5",
+    colors: ["#f34312", "#00a49e", "#ef888f", "#f5b408", "#412432"],
+    stroke: "#412432",
+    background: "#dfdcd5",
   },
   {
     name: "five-stars",
-    c: [
+    colors: [
       "#f5e8c7",
       "#d9dcad",
       "#cf3933",
@@ -44,18 +44,18 @@ export default [
       "#eba824",
       "#f05c03",
     ],
-    s: "#380c05",
-    b: "#ecd598",
+    stroke: "#380c05",
+    background: "#ecd598",
   },
   {
     name: "full-moon",
-    c: ["#f7e8be", "#aa879f", "#f6634e"],
-    s: "#2a1f39",
-    b: "#f7e8be",
+    colors: ["#f7e8be", "#aa879f", "#f6634e"],
+    stroke: "#2a1f39",
+    background: "#f7e8be",
   },
   {
     name: "sunday-stroll",
-    c: [
+    colors: [
       "#d44c4c",
       "#e47781",
       "#f5d274",
@@ -69,12 +69,12 @@ export default [
       "#73659e",
       "#ac879f",
     ],
-    b: "#e5cbb5",
+    background: "#e5cbb5",
     w: 2,
   },
   {
     name: "vegetable-soup",
-    c: [
+    colors: [
       "#ec6a22",
       "#f7e9c5",
       "#399a3f",
@@ -85,26 +85,26 @@ export default [
       "#98c195",
       "#708658",
     ],
-    b: "#fff7e0",
+    background: "#fff7e0",
     w: 2,
   },
   {
     name: "risograph",
-    c: ["#f56f64", "#f9cb1f", "#f0eace"],
-    s: "#295042",
-    b: "#f0eace",
+    colors: ["#f56f64", "#f9cb1f", "#f0eace"],
+    stroke: "#295042",
+    background: "#f0eace",
     w: 1,
   },
   {
     name: "tote-bag",
-    c: ["#f5f5f5", "#ffc6cf", "#fd5105", "#4124b0"],
-    s: "#231e22",
-    b: "#ffc6cf",
+    colors: ["#f5f5f5", "#ffc6cf", "#fd5105", "#4124b0"],
+    stroke: "#231e22",
+    background: "#ffc6cf",
     w: 1,
   },
   {
     name: "slicks",
-    c: [
+    colors: [
       "#ffbdd0",
       "#ff4328",
       "#e88526",
@@ -113,8 +113,8 @@ export default [
       "#fffcea",
       "#ffcc21",
     ],
-    s: "#fffcea",
-    b: "#212121",
+    stroke: "#fffcea",
+    background: "#212121",
     w: 1,
   },
 ];
